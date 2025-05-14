@@ -1,4 +1,4 @@
-# 프롬프트로 프론트엔드 아키텍쳐 및 생성을 하는 예제 프로젝트
+# AI 어시스트 가이드 참조
 - https://github.com/sreenivasanac/cursor-prompts/tree/main
 
 # cursor가 참조할 수 있는 파일 컨텍스트 범위
